@@ -1,2 +1,2 @@
-# IoT-learning
-Practice about embedded system and programming
+# Java Learning
+Practice about Android
